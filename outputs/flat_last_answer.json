@@ -1,0 +1,13 @@
+{
+  "answer": "OpenAI is an American artificial intelligence research organization that includes a for-profit public benefit corporation (PBC) and a nonprofit foundation, headquartered in San Francisco. It was founded in December 2015 by Elon Musk, Sam Altman, and others, initially as a nonprofit. OpenAI is known for developing the GPT family of large language models, the DALL-E series of text-to-image models, and the Sora series of text-to-video models. Its release of ChatGPT in November 2022 significantly increased interest in generative AI. The organization has faced various challenges, including lawsuits for copyright infringement and internal changes in leadership.",
+  "latency_ms": 3868,
+  "token_in": 2139,
+  "token_out": 127,
+  "estimated_cost": 0.000397,
+  "documents": [
+    "OpenAI",
+    "Palantir",
+    "Nvidia",
+    "AMD"
+  ]
+}

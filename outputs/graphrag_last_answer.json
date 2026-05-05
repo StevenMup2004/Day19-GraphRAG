@@ -1,0 +1,12 @@
+{
+  "answer": "The context provides information about DeepMind Technologies Limited, which was co-founded by former Google employees Demis Hassabis, Mustafa Suleyman, and Shane Legg. DeepMind was later acquired by Google on January 26, 2014. \n\nKey entities:\n- **DeepMind Technologies Limited** - Co-founded by former Google employees.\n- **Demis Hassabis**, **Mustafa Suleyman**, **Shane Legg** - Co-founders of DeepMind.",
+  "latency_ms": 3068,
+  "token_in": 1453,
+  "token_out": 94,
+  "estimated_cost": 0.000274,
+  "seed_nodes": [
+    "Google"
+  ],
+  "subgraph_nodes": 78,
+  "context_preview": "DeepMind Technologies Limited -[ACHIEVED]-> state of the art records on benchmark tests for protein folding prediction (source: Google DeepMind)\nDeepMind Technologies Limited -[ACQUIRED_BY]-> Google (source: Google DeepMind)\nDeepMind Technologies Limited -[ACQUIRED_ON]-> 26 January 2014 (source: Google DeepMind)\nDeepMind Technologies Limited -[ACQUISITION_PRICE]-> $400 million to $650 million (source: Google DeepMind)\nDeepMind Technologies Limited -[ADVISED_BY]-> Jaan Tallinn (source: Google DeepMind)\nDeepMind Technologies Limited -[CREATED]-> AlphaDev (source: Google DeepMind)\nDeepMind Technologies Limited -[CREATED]-> AlphaEvolve (source: Google DeepMind)\nDeepMind Technologies Limited -[CREATED]-> AlphaGeometry (source: Google DeepMind)\nDeepMind Technologies Limited -[CREATED]-> AlphaGo (source: Google DeepMind)\nDeepMind Technologies Limited -[CREATED]-> AlphaStar (source: Google DeepMind)\nDeepMind Technologies Limited -[CREATED]-> AlphaTensor (source: Google DeepMind)\nDeepMind Technologies Limited -[CREATED]-> AlphaZero (source: Google DeepMind)\nDeepMind Technologies Limited -[CREATED]-> MuZero (source: Google DeepMind)\nDeepMind Technologies Limited -[DEVELOPED]-> Gemini (source"
+}

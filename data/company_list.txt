@@ -1,0 +1,102 @@
+OpenAI
+Anthropic
+DeepMind
+xAI
+Hugging Face
+Cohere
+Mistral AI
+Stability AI
+Midjourney
+Perplexity AI
+Character.AI
+Inflection AI
+Adept AI
+Scale AI
+Databricks
+C3.ai
+Palantir Technologies
+NVIDIA
+Advanced Micro Devices
+Intel
+IBM
+Microsoft
+Google
+Meta Platforms
+Amazon (company)
+Apple Inc.
+Tesla, Inc.
+Baidu
+Alibaba Group
+Tencent
+SenseTime
+Megvii
+iFlytek
+UiPath
+Automation Anywhere
+DataRobot
+H2O.ai
+Weights & Biases
+Anyscale
+Dataiku
+Clarifai
+SambaNova Systems
+Cerebras Systems
+Graphcore
+Numenta
+Vicarious (company)
+Zoox
+Cruise (autonomous vehicle)
+Waymo
+Aurora Innovation
+Nuro
+Duolingo
+Grammarly
+Canva
+Notion (productivity software)
+Dropbox
+Snowflake Inc.
+MongoDB Inc.
+Confluent (company)
+Elastic N.V.
+ServiceNow
+Salesforce
+SAP
+Oracle Corporation
+Adobe Inc.
+Shopify
+Stripe, Inc.
+Block, Inc.
+PayPal
+Netflix
+Spotify
+ByteDance
+Snap Inc.
+Pinterest
+Reddit
+LinkedIn
+Zoom Video Communications
+Twilio
+Cloudflare
+CrowdStrike
+SentinelOne
+Darktrace
+Replit
+GitHub
+GitLab
+Atlassian
+Figma
+Qualcomm
+Arm Holdings
+Taiwan Semiconductor Manufacturing Company
+Samsung Electronics
+Sony
+Siemens
+Bosch
+ABB
+Accenture
+Capgemini
+Infosys
+Tata Consultancy Services
+Wipro
+Hewlett Packard Enterprise
+Dell Technologies

@@ -1,0 +1,21 @@
+question_id,question,expected_keywords,hop_hint,path_hint
+GQ01,Which company has the product Stable Diffusion and also partnered with Arm?,stability ai,2,Stability AI Ltd -[HAS_PRODUCT]-> Stable Diffusion + Stability AI Ltd -[PARTNERED_WITH]-> Arm
+GQ02,Which company launched Sonar and received funding from Nvidia?,perplexity ai,2,Perplexity AI, Inc. -[LAUNCHED]-> Sonar + -[RECEIVED_FUNDING_FROM]-> Nvidia
+GQ03,Which company aired commercials during Super Bowl LX and partnered with Google?,anthropic,2,Anthropic -[AIRED_COMMERCIALS_DURING]-> Super Bowl LX + -[PARTNERED_WITH]-> Google
+GQ04,Which company operates GeForce Now and is headquartered in Santa Clara?,nvidia,2,Nvidia Corporation -[OPERATES]-> GeForce Now + -[HEADQUARTERED_IN]-> Santa Clara
+GQ05,Which company was acquired by Google and had founders Demis Hassabis and Mustafa Suleyman?,deepmind,3,DeepMind Technologies Limited -[ACQUIRED_BY]-> Google + -[FOUNDED_BY]-> founders
+GQ06,Which company expected investment from both Microsoft and Nvidia?,anthropic,2,Anthropic -[EXPECTED_INVESTMENT_FROM]-> Microsoft/Nvidia
+GQ07,Which company has products GPT and DALL-E and was founded in 2015?,openai,2,OpenAI Global, LLC -[HAS_PRODUCT]-> GPT/DALL-E + -[FOUNDED_IN]-> 2015
+GQ08,Which company has multiple founders including Andy Konwinski and Aravind Srinivas?,perplexity ai,2,Perplexity AI, Inc. -[FOUNDED_BY]-> Andy Konwinski/Aravind Srinivas
+GQ09,Which company partnered with Google and is headquartered in San Francisco?,anthropic,2,Anthropic -[PARTNERED_WITH]-> Google + -[HEADQUARTERED_IN]-> San Francisco
+GQ10,Which company has product Stable Audio Open and faced a lawsuit from Getty Images?,stability ai,2,Stability AI Ltd -[HAS_PRODUCT]-> Stable Audio Open + -[FACED_LAWSUIT_FROM]-> Getty Images
+GQ11,Which company has product line GeForce and was founded by Jensen Huang?,nvidia,2,Nvidia Corporation -[HAS_PRODUCT_LINE]-> GeForce + -[FOUNDED_BY]-> Jensen Huang
+GQ12,Which company launched a web search API and signed partnership with Snowflake Inc.?,anthropic,2,Anthropic -[LAUNCHED]-> web search API + -[SIGNED_PARTNERSHIP_WITH]-> Snowflake Inc.
+GQ13,Which company made a bid to buy Chrome and entered partnership with Cristiano Ronaldo?,perplexity ai,2,Perplexity AI, Inc. -[MADE_BID_TO_BUY]-> Chrome + -[ENTERED_PARTNERSHIP_WITH]-> Cristiano Ronaldo
+GQ14,Which company is linked to OpenAI and partnered with Databricks, Inc.?,anthropic;openai,3,Databricks, Inc. -[PARTNERED_WITH]-> OpenAI + Databricks, Inc. -[PARTNERED_WITH]-> Anthropic
+GQ15,Which company has interim CEOs Christian Laforte and Shan Shan Wong?,stability ai,2,Stability AI Ltd -[HAS_INTERIM_CEO]-> Christian Laforte/Shan Shan Wong
+GQ16,Which company has headquarters in San Francisco and developed Claude?,anthropic,2,Anthropic -[HEADQUARTERED_IN]-> San Francisco + -[DEVELOPED]-> Claude
+GQ17,Which company received funding from Jeff Bezos and also from Nvidia?,perplexity ai,2,Perplexity AI, Inc. -[RECEIVED_FUNDING_FROM]-> Jeff Bezos/Nvidia
+GQ18,Which company is associated with GPT and ChatGPT and has ties to Microsoft investment?,openai,3,OpenAI Global, LLC -[HAS_PRODUCT]-> GPT/ChatGPT + Microsoft investment relation in OpenAI context
+GQ19,Which company has product Stable Diffusion and founder Emad Mostaque?,stability ai,2,Stability AI Ltd -[HAS_PRODUCT]-> Stable Diffusion + -[FOUNDED_BY]-> Emad Mostaque
+GQ20,Which company develops GPUs and has over 80 percent market share in that segment?,nvidia,2,Nvidia Corporation -[DEVELOPS]-> GPUs + -[CONTROLLED_MARKET_SHARE]/[HOLD_MARKET_SHARE]

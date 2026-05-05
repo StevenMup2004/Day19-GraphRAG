@@ -1,0 +1,563 @@
+subject,predicate,object,source_doc
+AI accelerator program,BASED_AT,STATION F,Hugging Face
+"Advanced Micro Devices, Inc.",ACQUIRED,Xilinx,AMD
+"Advanced Micro Devices, Inc.",COMPETES_WITH,Intel,AMD
+"Advanced Micro Devices, Inc.",EXPANDED_INTO,data centers,AMD
+"Advanced Micro Devices, Inc.",EXPANDED_INTO,gaming,AMD
+"Advanced Micro Devices, Inc.",EXPANDED_INTO,high-performance computing,AMD
+"Advanced Micro Devices, Inc.",FOUNDED_BY,Jerry Sanders,AMD
+"Advanced Micro Devices, Inc.",FOUNDED_IN,1969,AMD
+"Advanced Micro Devices, Inc.",HEADQUARTERED_IN,Santa Clara,AMD
+"Advanced Micro Devices, Inc.",INITIAL_CUSTOMER_BASE,Fairchild Semiconductor,AMD
+"Advanced Micro Devices, Inc.",INITIAL_CUSTOMER_BASE,National Semiconductor,AMD
+"Advanced Micro Devices, Inc.",OUTSOURCED_MANUFACTURING,GlobalFoundries,AMD
+"Advanced Micro Devices, Inc.",PRODUCES,FPGAs,AMD
+"Advanced Micro Devices, Inc.",PRODUCES,SoCs,AMD
+"Advanced Micro Devices, Inc.",PRODUCES,graphics processors,AMD
+"Advanced Micro Devices, Inc.",PRODUCES,logic chips,AMD
+"Advanced Micro Devices, Inc.",PRODUCES,memory chips,AMD
+"Advanced Micro Devices, Inc.",PRODUCES,microprocessors,AMD
+"Advanced Micro Devices, Inc.",REGAINED_MARKET_SHARE,late 2010s,AMD
+"Advanced Micro Devices, Inc.",SERVES_MARKET,PCs,AMD
+"Advanced Micro Devices, Inc.",SERVES_MARKET,data centers,AMD
+"Advanced Micro Devices, Inc.",SERVES_MARKET,embedded systems,AMD
+"Advanced Micro Devices, Inc.",SERVES_MARKET,gaming,AMD
+"Advanced Micro Devices, Inc.",SURPASSED_BY_MARKET_CAPITALIZATION,Intel,AMD
+Aidan Gomez,CEO_OF,Cohere Inc.,Cohere
+Alexander Dey,INVENTED,dial recorder,IBM
+Alibaba Group Holding Limited,BOUGHT_OUT_BY,China Investment Corporation,Alibaba Group
+Alibaba Group Holding Limited,COMPETES_WITH,eBay,Alibaba Group
+Alibaba Group Holding Limited,FOUNDED_BY,Jack Ma,Alibaba Group
+Alibaba Group Holding Limited,FOUNDED_ON,28 June 1999,Alibaba Group
+Alibaba Group Holding Limited,HAS_MARKETPLACE,Alibaba.com,Alibaba Group
+Alibaba Group Holding Limited,HAS_MARKETPLACE,Taobao,Alibaba Group
+Alibaba Group Holding Limited,HAS_MARKETPLACE,Tmall,Alibaba Group
+Alibaba Group Holding Limited,LOCATED_IN,Hangzhou,Alibaba Group
+Alibaba Group Holding Limited,PLANNED_PARTNERSHIP_WITH,Wanda Group,Alibaba Group
+Alibaba Group Holding Limited,RECEIVED_INVESTMENT_FROM,Goldman Sachs,Alibaba Group
+Alibaba Group Holding Limited,RECEIVED_INVESTMENT_FROM,Investor AB,Alibaba Group
+Alibaba Group Holding Limited,RECEIVED_INVESTMENT_FROM,SoftBank,Alibaba Group
+Alibaba Group Holding Limited,RECEIVED_INVESTMENT_FROM,Yahoo!,Alibaba Group
+Alibaba Group Holding Limited,SPECIALIZES_IN,e-commerce,Alibaba Group
+AlphaGo,BEAT,Lee Sedol,Google DeepMind
+"Amazon.com, Inc.",ACQUIRED,Metro-Goldwyn-Mayer,Amazon (company)
+"Amazon.com, Inc.",FOUNDED_BY,Jeff Bezos,Amazon (company)
+"Amazon.com, Inc.",FOUNDED_IN,1994,Amazon (company)
+"Amazon.com, Inc.",HAS_SUBSIDIARY,Amazon Lab126,Amazon (company)
+"Amazon.com, Inc.",HAS_SUBSIDIARY,Amazon Web Services,Amazon (company)
+"Amazon.com, Inc.",HAS_SUBSIDIARY,IMDb,Amazon (company)
+"Amazon.com, Inc.",HAS_SUBSIDIARY,Kuiper Systems,Amazon (company)
+"Amazon.com, Inc.",HAS_SUBSIDIARY,Ring,Amazon (company)
+"Amazon.com, Inc.",HAS_SUBSIDIARY,Twitch,Amazon (company)
+"Amazon.com, Inc.",HAS_SUBSIDIARY,Whole Foods Market,Amazon (company)
+"Amazon.com, Inc.",HAS_SUBSIDIARY,Zoox,Amazon (company)
+"Amazon.com, Inc.",LOCATED_IN,"Bellevue, Washington",Amazon (company)
+"Amazon.com, Inc.",OFFERS_SERVICE,Amazon Music,Amazon (company)
+"Amazon.com, Inc.",OFFERS_SERVICE,Amazon Prime Video,Amazon (company)
+"Amazon.com, Inc.",OFFERS_SERVICE,Audible,Amazon (company)
+"Amazon.com, Inc.",OFFERS_SERVICE,MGM+,Amazon (company)
+"Amazon.com, Inc.",OFFERS_SERVICE,Wondery,Amazon (company)
+"Amazon.com, Inc.",PRODUCES,Echo,Amazon (company)
+"Amazon.com, Inc.",PRODUCES,Fire TVs,Amazon (company)
+"Amazon.com, Inc.",PRODUCES,Fire tablets,Amazon (company)
+"Amazon.com, Inc.",PRODUCES,Kindle,Amazon (company)
+"Amazon.com, Inc.",PRODUCES_THROUGH,Amazon MGM Studios,Amazon (company)
+"Amazon.com, Inc.",PUBLISHES_THROUGH,Amazon Publishing,Amazon (company)
+"Amazon.com, Inc.",RIVALS,Walmart,Amazon (company)
+Anthropic,ACQUIRED,Bun,Anthropic
+Anthropic,AIRED_COMMERCIALS_DURING,Super Bowl LX,Anthropic
+Anthropic,ANNOUNCED,Claude 4,Anthropic
+Anthropic,DEVELOPED,Claude,Anthropic
+Anthropic,EXPECTED_INVESTMENT_FROM,Microsoft,Anthropic
+Anthropic,EXPECTED_INVESTMENT_FROM,Nvidia,Anthropic
+Anthropic,FOUNDED_BY,Daniela Amodei,Anthropic
+Anthropic,FOUNDED_BY,Dario Amodei,Anthropic
+Anthropic,HEADQUARTERED_IN,San Francisco,Anthropic
+Anthropic,HIRED,Jan Leike,Anthropic
+Anthropic,HIRED,John Schulman,Anthropic
+Anthropic,LAUNCHED,web search API,Anthropic
+Anthropic,PARTNERED_WITH,Google,Anthropic
+Anthropic,REFUSED_DEMAND_FROM,United States Department of Defense,Anthropic
+Anthropic,SIGNED_PARTNERSHIP_WITH,Snowflake Inc.,Anthropic
+Anthropic,STOP_SELLING_TO,"groups majority-owned by Chinese, Russian, Iranian, or North Korean entities",Anthropic
+Apple Inc.,ACQUIRED,NeXT,Apple Inc.
+Apple Inc.,DEVELOPS,iOS,Apple Inc.
+Apple Inc.,DEVELOPS,iPadOS,Apple Inc.
+Apple Inc.,DEVELOPS,macOS,Apple Inc.
+Apple Inc.,FOUNDED_BY,Ronald Wayne,Apple Inc.
+Apple Inc.,FOUNDED_BY,Steve Jobs,Apple Inc.
+Apple Inc.,FOUNDED_BY,Steve Wozniak,Apple Inc.
+Apple Inc.,OFFERS,Apple Music,Apple Inc.
+Apple Inc.,OFFERS,Apple TV,Apple Inc.
+Apple Inc.,OPERATES,Apple Store,Apple Inc.
+Apple Inc.,PRODUCES,iMac,Apple Inc.
+Apple Inc.,PRODUCES,iPad,Apple Inc.
+Apple Inc.,PRODUCES,iPhone,Apple Inc.
+Apple Inc.,PRODUCES,iPod,Apple Inc.
+Arthur Mensch,FORMER_EMPLOYEE_OF,Google DeepMind,Mistral AI
+"Baidu, Inc.",FOUNDED_BY,Eric Xu,Baidu
+"Baidu, Inc.",FOUNDED_BY,Robin Li,Baidu
+"Baidu, Inc.",HAS_SERVICE,Baidu App,Baidu
+"Baidu, Inc.",HAS_SERVICE,Baidu Baike,Baidu
+"Baidu, Inc.",HAS_SERVICE,Baidu Search,Baidu
+"Baidu, Inc.",HAS_SERVICE,Baidu Tieba,Baidu
+"Baidu, Inc.",HAS_SERVICE,ES File Explorer,Baidu
+"Baidu, Inc.",HAS_SERVICE,iQIYI,Baidu
+"Baidu, Inc.",HAS_TECHNOLOGY,Baidu Apollo,Baidu
+"Baidu, Inc.",HAS_TECHNOLOGY,Xiaodu,Baidu
+"Baidu, Inc.",HEADQUARTERED_IN,Beijing,Baidu
+"Baidu, Inc.",INCORPORATED_IN,Cayman Islands,Baidu
+"Baidu, Inc.",JOINED,Partnership on AI,Baidu
+"Baidu, Inc.",LISTED_ON,NASDAQ-100,Baidu
+BigScience Research Workshop,RESULTED_IN,BLOOM,Hugging Face
+C3.ai,ALL_TIME_HIGH_CLOSE,US$177.47,C3 AI
+C3.ai,APPOINTED_CEO,Stephen Ehikian,C3 AI
+C3.ai,BASED_IN,Redwood City,C3 AI
+C3.ai,BECAME_PUBLIC_COMPANY,2020,C3 AI
+C3.ai,CLOSING_PRICE_ON_FIRST_DAY,US$92.49,C3 AI
+C3.ai,CONTROLLED_BY,Tom Siebel,C3 AI
+C3.ai,EXECUTED_REVERSE_STOCK_SPLIT,6-for-1,C3 AI
+C3.ai,EXPECTED_GROSS_PROCEEDS,US $651 million,C3 AI
+C3.ai,FOUNDED_BY,Thomas Siebel,C3 AI
+C3.ai,HAD_INITIAL_PUBLIC_OFFERING,9 December 2020,C3 AI
+C3.ai,IMPLEMENTED_DUAL_CLASS_SHARE_STRUCTURE,True,C3 AI
+C3.ai,INTRADAY_HIGH,US$183.9,C3 AI
+C3.ai,LISTED_ON,New York Stock Exchange,C3 AI
+C3.ai,LOCATED_IN,California,C3 AI
+C3.ai,MARKET_CAP_ON_FIRST_DAY,US$8.9 billion,C3 AI
+C3.ai,PRICED_SHARES_AT,US $42.00,C3 AI
+C3.ai,SHARE_PRICE_FELL,74%,C3 AI
+C3.ai,SHARE_PRICE_IN_FEBRUARY_2026,US$10.40,C3 AI
+Character.ai,ALLOWS,users to create characters,Character.ai
+Character.ai,ALLOWS,users to play text-adventure games,Character.ai
+Character.ai,DESIGNED_BY,Daniel de Freitas,Character.ai
+Character.ai,DESIGNED_BY,Noam Shazeer,Character.ai
+Character.ai,HAD,3.5 million daily visitors,Character.ai
+Character.ai,HIRED,Noam Shazeer,Character.ai
+Character.ai,LOGGED,hundreds of thousands of user interactions,Character.ai
+Character.ai,PROVIDES,multiple users and AI chatbot characters to converse together,Character.ai
+Character.ai,RAISED,$43 million,Character.ai
+Character.ai,RATES_RESPONSES,1 to 4 stars,Character.ai
+Character.ai,RECEIVED,over 1.7 million downloads,Character.ai
+Character.ai,RELEASED_ON,"September 16, 2022",Character.ai
+Character.ai,VALUED_AT,$1 billion,Character.ai
+ChatGPT,RELEASE_DATE,November 2022,OpenAI
+Claude,RELEASED_IN,March 2023,Anthropic
+Claude Code,TRANSITIONED_TO,general availability,Anthropic
+Cohere Inc.,ACQUIRED,Aleph Alpha,Cohere
+Cohere Inc.,ACQUIRED,Ottogrid,Cohere
+Cohere Inc.,FOUNDED_BY,Aidan Gomez,Cohere
+Cohere Inc.,FOUNDED_BY,Ivan Zhang,Cohere
+Cohere Inc.,FOUNDED_BY,Nick Frosst,Cohere
+Cohere Inc.,HAS_OFFICE_IN,London,Cohere
+Cohere Inc.,HAS_OFFICE_IN,Montreal,Cohere
+Cohere Inc.,HAS_OFFICE_IN,New York City,Cohere
+Cohere Inc.,HAS_OFFICE_IN,Paris,Cohere
+Cohere Inc.,HAS_OFFICE_IN,San Francisco,Cohere
+Cohere Inc.,HAS_OFFICE_IN,Seoul,Cohere
+Cohere Inc.,HEADQUARTERED_IN,Toronto,Cohere
+Cohere Inc.,PARTNERED_WITH,Canada,Cohere
+Cohere Inc.,PARTNERED_WITH,United Kingdom,Cohere
+Cohere Inc.,SIGNED_CODE_OF_CONDUCT,Canada,Cohere
+Cohere Inc.,SIGNED_COMMITMENT,White House,Cohere
+Cohere Labs,LED_BY,Marzieh Fadaee,Cohere
+Computing-Tabulating-Recording Company,AMALGAMATED_BY,Charles Ranlett Flint,IBM
+Computing-Tabulating-Recording Company,BASED_IN,"Endicott, New York",IBM
+Computing-Tabulating-Recording Company,RENAMED_TO,International Business Machines,IBM
+Cyrus Hodes,FILED_LAWSUIT_AGAINST,Emad Mostaque,Stability AI
+Daniel de Freitas,WORKED_ON,Meena,Character.ai
+Dario Amodei,FORMER_POSITION,Vice President of Research at OpenAI,Anthropic
+"Databricks, Inc.",ACQUIRED,8080 Labs,Databricks
+"Databricks, Inc.",ACQUIRED,Arcion,Databricks
+"Databricks, Inc.",ACQUIRED,MosaicML,Databricks
+"Databricks, Inc.",ACQUIRED,Okera,Databricks
+"Databricks, Inc.",ACQUIRED,Redash,Databricks
+"Databricks, Inc.",ACQUIRED,Tabular,Databricks
+"Databricks, Inc.",ANNOUNCED,Data Intelligence Platform,Databricks
+"Databricks, Inc.",BASED_IN,San Francisco,Databricks
+"Databricks, Inc.",FOUNDED_BY,Ali Ghodsi,Databricks
+"Databricks, Inc.",FOUNDED_BY,Andy Konwinski,Databricks
+"Databricks, Inc.",FOUNDED_BY,Arsalan Tavakoli-Shiraji,Databricks
+"Databricks, Inc.",FOUNDED_BY,Ion Stoica,Databricks
+"Databricks, Inc.",FOUNDED_BY,Matei Zaharia,Databricks
+"Databricks, Inc.",FOUNDED_BY,Patrick Wendell,Databricks
+"Databricks, Inc.",FOUNDED_BY,Reynold Xin,Databricks
+"Databricks, Inc.",FOUNDED_IN,2013,Databricks
+"Databricks, Inc.",INTEGRATED_WITH,Google Cloud,Databricks
+"Databricks, Inc.",INTEGRATED_WITH,Microsoft Azure,Databricks
+"Databricks, Inc.",INTRODUCED,Dolly,Databricks
+"Databricks, Inc.",PARTNERED_WITH,Alphabet,Databricks
+"Databricks, Inc.",PARTNERED_WITH,Anthropic,Databricks
+"Databricks, Inc.",PARTNERED_WITH,OpenAI,Databricks
+"Databricks, Inc.",PROVIDED_INTEGRATION_WITH,Google BigQuery,Databricks
+"Databricks, Inc.",PROVIDED_INTEGRATION_WITH,Google Kubernetes Engine,Databricks
+"Databricks, Inc.",REPORTED_REVENUE,$1.6 billion,Databricks
+David Holz,CO_FOUNDING,Leap Motion,Midjourney
+DeepMind Technologies Limited,ACQUIRED_BY,Google,Google DeepMind
+DeepMind Technologies Limited,ACQUIRED_ON,26 January 2014,Google DeepMind
+DeepMind Technologies Limited,ACQUISITION_PRICE,$400 million - $650 million,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,AlphaDev,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,AlphaEvolve,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,AlphaFold,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,AlphaGeometry,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,AlphaGo,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,AlphaStar,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,AlphaTensor,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,AlphaZero,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,Gemini,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,Imagen,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,Lyria,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,MuZero,Google DeepMind
+DeepMind Technologies Limited,DEVELOPED,Veo,Google DeepMind
+DeepMind Technologies Limited,FOUNDED_BY,Demis Hassabis,Google DeepMind
+DeepMind Technologies Limited,FOUNDED_BY,Mustafa Suleyman,Google DeepMind
+DeepMind Technologies Limited,FOUNDED_BY,Shane Legg,Google DeepMind
+DeepMind Technologies Limited,FOUNDED_IN,2010,Google DeepMind
+DeepMind Technologies Limited,HAS_RESEARCH_CENTRES_IN,Canada,Google DeepMind
+DeepMind Technologies Limited,HAS_RESEARCH_CENTRES_IN,France,Google DeepMind
+DeepMind Technologies Limited,HAS_RESEARCH_CENTRES_IN,Germany,Google DeepMind
+DeepMind Technologies Limited,HAS_RESEARCH_CENTRES_IN,Switzerland,Google DeepMind
+DeepMind Technologies Limited,HAS_RESEARCH_CENTRES_IN,United States,Google DeepMind
+DeepMind Technologies Limited,HEADQUARTERED_IN,London,Google DeepMind
+DeepMind Technologies Limited,MERGED_WITH,Google Brain,Google DeepMind
+DeepMind Technologies Limited,RECEIVED_ADVICE_FROM,Jaan Tallinn,Google DeepMind
+DeepMind Technologies Limited,RECEIVED_INVESTMENT_FROM,Elon Musk,Google DeepMind
+DeepMind Technologies Limited,RECEIVED_INVESTMENT_FROM,Founders Fund,Google DeepMind
+DeepMind Technologies Limited,RECEIVED_INVESTMENT_FROM,Horizons Ventures,Google DeepMind
+DeepMind Technologies Limited,RECEIVED_INVESTMENT_FROM,Peter Thiel,Google DeepMind
+DeepMind Technologies Limited,RECEIVED_INVESTMENT_FROM,Scott Banister,Google DeepMind
+DeepMind Technologies Limited,RELEASED,AlphaFold database,Google DeepMind
+Dolly,HAS_PARAMETERS,6 billion,Databricks
+Elon Musk,APPROVED_PAY_PACKAGE,$1 trillion,"Tesla, Inc."
+Elon Musk,JOINED,"Tesla, Inc.","Tesla, Inc."
+Explainable Artificial Intelligence,IS_A,Technology,Xai
+Facebook,ACCUMULATED_LIKES_AND_COMMENTS,2.7 billion,Meta Platforms
+Facebook,CLOSING_BELL_VALUE,$38.23,Meta Platforms
+Facebook,FILED_FOR,IPO,Meta Platforms
+Facebook,HAS_MONTHLY_ACTIVE_USERS,845 million,Meta Platforms
+Facebook,IPO_PRICE,$38,Meta Platforms
+Facebook,RAISED,$16 billion,Meta Platforms
+Facebook,TRADING_BEGAN_ON,May 18,Meta Platforms
+Facebook,VALUED_AT,$104 billion,Meta Platforms
+Google,ENTERED_INTO,non-exclusive agreement,Character.ai
+Google LLC,CEO,Sundar Pichai,Google
+Google LLC,DISCONTINUED_PRODUCT,Glass,Google
+Google LLC,DISCONTINUED_PRODUCT,Google,Google
+Google LLC,DISCONTINUED_PRODUCT,Hangouts,Google
+Google LLC,DISCONTINUED_PRODUCT,Inbox by Gmail,Google
+Google LLC,DISCONTINUED_PRODUCT,Nexus,Google
+Google LLC,DISCONTINUED_PRODUCT,Play Music,Google
+Google LLC,DISCONTINUED_PRODUCT,Reader,Google
+Google LLC,DISCONTINUED_PRODUCT,Stadia,Google
+Google LLC,FOUNDED_BY,Larry Page,Google
+Google LLC,FOUNDED_BY,Sergey Brin,Google
+Google LLC,HAS_PRODUCT,Android,Google
+Google LLC,HAS_PRODUCT,Chrome,Google
+Google LLC,HAS_PRODUCT,ChromeOS,Google
+Google LLC,HAS_PRODUCT,Cloud,Google
+Google LLC,HAS_PRODUCT,Drive,Google
+Google LLC,HAS_PRODUCT,Earth,Google
+Google LLC,HAS_PRODUCT,Fitbit,Google
+Google LLC,HAS_PRODUCT,Gemini,Google
+Google LLC,HAS_PRODUCT,Gmail,Google
+Google LLC,HAS_PRODUCT,Google Assistant,Google
+Google LLC,HAS_PRODUCT,Google DeepMind,Google
+Google LLC,HAS_PRODUCT,Google Search,Google
+Google LLC,HAS_PRODUCT,Maps,Google
+Google LLC,HAS_PRODUCT,Meet,Google
+Google LLC,HAS_PRODUCT,Nest,Google
+Google LLC,HAS_PRODUCT,Photos,Google
+Google LLC,HAS_PRODUCT,Pixel,Google
+Google LLC,HAS_PRODUCT,Pixel Watch,Google
+Google LLC,HAS_PRODUCT,TPU,Google
+Google LLC,HAS_PRODUCT,TensorFlow,Google
+Google LLC,HAS_PRODUCT,Translate,Google
+Google LLC,HAS_PRODUCT,Waymo,Google
+Google LLC,HAS_PRODUCT,Waze,Google
+Google LLC,HAS_PRODUCT,Workspace,Google
+Google LLC,HAS_PRODUCT,YouTube,Google
+Google LLC,HAS_PRODUCT,YouTube Music,Google
+Google LLC,HAS_PRODUCT,YouTube TV,Google
+Google LLC,PARENT_COMPANY,Alphabet Inc.,Google
+Google LLC,REORGANIZED_AS,Alphabet Inc.,Google
+Google LLC,WENT_PUBLIC,2004,Google
+Gordon Moore,LEFT,Fairchild Semiconductor,Intel
+Guillaume Lample,FORMER_EMPLOYEE_OF,Meta Platforms,Mistral AI
+Herman Hollerith,PATENTED,Electric Tabulating Machine,IBM
+"Hugging Face, Inc.",ACQUIRED,Pollen Robotics,Hugging Face
+"Hugging Face, Inc.",ANNOUNCED,Trainium,Hugging Face
+"Hugging Face, Inc.",BASED_IN,New York City,Hugging Face
+"Hugging Face, Inc.",FOUNDED_BY,Clément Delangue,Hugging Face
+"Hugging Face, Inc.",FOUNDED_BY,Julien Chaumond,Hugging Face
+"Hugging Face, Inc.",FOUNDED_BY,Thomas Wolf,Hugging Face
+"Hugging Face, Inc.",LAUNCHED,AI accelerator program,Hugging Face
+"Hugging Face, Inc.",LAUNCHED,BigScience Research Workshop,Hugging Face
+"Hugging Face, Inc.",PARTNERED_WITH,Amazon Web Services,Hugging Face
+"Hugging Face, Inc.",TARGETED_BY,Hackers,Hugging Face
+"Hugging Face, Inc.",TEAMED_UP_WITH,Meta,Hugging Face
+"Hugging Face, Inc.",TEAMED_UP_WITH,UNESCO,Hugging Face
+IBM,DEBUTED_IN,microcomputer market,IBM
+IBM,DEVELOPS,mainframes,IBM
+IBM,FOUNDED_AS,Computing-Tabulating-Recording Company,IBM
+IBM,HAD_RECORD_FOR,most annual U.S. patents,IBM
+IBM,HEADQUARTERED_IN,"Armonk, New York",IBM
+IBM,PRESENT_IN,over 175 countries,IBM
+IBM,PRODUCED,70 percent of computers worldwide,IBM
+IBM,PRODUCED,80 percent of computers in the U.S.,IBM
+IBM,RANKED_AMONG,most powerful supercomputers,IBM
+IBM,RESPONSIBLE_FOR,several technological innovations,IBM
+IBM,SOLD_DIVISION_TO,Lenovo,IBM
+IBM,TRADED_ON,Dow Jones Industrial Average,IBM
+IBM Personal Computer,BASED_ON,IBM architecture,IBM
+IDD Information Services,PART_OF,Dow Jones and Company,Baidu
+"Inflection AI, Inc.",COLLABORATED_WITH,Nvidia,Inflection AI
+"Inflection AI, Inc.",FOUNDED_BY,Karén Simonyan,Inflection AI
+"Inflection AI, Inc.",FOUNDED_BY,Mustafa Suleyman,Inflection AI
+"Inflection AI, Inc.",FOUNDED_BY,Reid Hoffman,Inflection AI
+"Inflection AI, Inc.",LICENSED_TECHNOLOGY_TO,Microsoft AI,Inflection AI
+"Inflection AI, Inc.",RAISED,US$1.3 billion,Inflection AI
+"Inflection AI, Inc.",RELEASED_PRODUCT,Pi,Inflection AI
+"Inflection AI, Inc.",VALUED_AT,$4 billion,Inflection AI
+Intel Corporation,ASSOCIATED_WITH,Andrew Grove,Intel
+Intel Corporation,COMPETES_WITH,AMD,Intel
+Intel Corporation,DESIGNS,Intel 4004,Intel
+Intel Corporation,FOUNDED_BY,Arthur Rock,Intel
+Intel Corporation,FOUNDED_BY,Gordon Moore,Intel
+Intel Corporation,FOUNDED_BY,Robert Noyce,Intel
+Intel Corporation,HEADQUARTERED_IN,Santa Clara,Intel
+Intel Corporation,INCLUDED_IN,Fortune 500,Intel
+Intel Corporation,LISTED_ON,National Association of Securities Dealers,Intel
+Intel Corporation,LOCATED_IN,California,Intel
+Intel Corporation,MANUFACTURES,CPUs,Intel
+Intel Corporation,MANUFACTURES,GPUs,Intel
+Intel Corporation,PARTNERED_WITH,Microsoft Windows,Intel
+Julius E. Pitrap,PATENTED,computing scale,IBM
+Kaimbé Language,IS_A,Language,Xai
+Karén Simonyan,DEPARTED_FROM,"Inflection AI, Inc.",Inflection AI
+Le Chat,USES_MODEL,Flux Pro,Mistral AI
+Martin Kon,COO_OF,Cohere Inc.,Cohere
+Martin Kon,PRESIDENT_OF,Cohere Inc.,Cohere
+Meena,BECAME_KNOWN_AS,LaMDA,Character.ai
+"Meta Platforms, Inc.",HEADQUARTERED_IN,Menlo Park,Meta Platforms
+"Meta Platforms, Inc.",LOCATED_IN,California,Meta Platforms
+"Meta Platforms, Inc.",OWNS,Facebook,Meta Platforms
+"Meta Platforms, Inc.",OWNS,Instagram,Meta Platforms
+"Meta Platforms, Inc.",OWNS,Manus,Meta Platforms
+"Meta Platforms, Inc.",OWNS,Messenger,Meta Platforms
+"Meta Platforms, Inc.",OWNS,Threads,Meta Platforms
+"Meta Platforms, Inc.",OWNS,WhatsApp,Meta Platforms
+"Meta Platforms, Inc.",PART_OF,Big Tech,Meta Platforms
+"Meta Platforms, Inc.",RANKED_ON,Forbes Global 2000,Meta Platforms
+"Meta Platforms, Inc.",SPENT_ON_R_D,US$35.3 billion,Meta Platforms
+Microsoft,INVESTED_IN,"OpenAI Global, LLC",OpenAI
+Microsoft,PURCHASED,US $50 million,C3 AI
+Microsoft AI,ACQUI_HIRED,"Inflection AI, Inc.'s 70-person workforce",Inflection AI
+Microsoft AI,PAID,$650 million,Inflection AI
+Microsoft Corporation,ACQUIRED,Activision Blizzard,Microsoft
+Microsoft Corporation,ACQUIRED,LinkedIn,Microsoft
+Microsoft Corporation,ACQUIRED,Skype Technologies,Microsoft
+Microsoft Corporation,BECAME_VALUED_AT,$1 trillion,Microsoft
+Microsoft Corporation,CRITICIZED_FOR,ease of use issues,Microsoft
+Microsoft Corporation,CRITICIZED_FOR,monopolistic practices,Microsoft
+Microsoft Corporation,CRITICIZED_FOR,robustness issues,Microsoft
+Microsoft Corporation,CRITICIZED_FOR,role in Gaza war,Microsoft
+Microsoft Corporation,CRITICIZED_FOR,security issues,Microsoft
+Microsoft Corporation,FOUNDED_BY,Bill Gates,Microsoft
+Microsoft Corporation,FOUNDED_BY,Paul Allen,Microsoft
+Microsoft Corporation,FOUNDED_IN,1975,Microsoft
+Microsoft Corporation,HAS_CEO,Satya Nadella,Microsoft
+Microsoft Corporation,HAS_CEO,Steve Ballmer,Microsoft
+Microsoft Corporation,HAS_PRODUCT,MS-DOS,Microsoft
+Microsoft Corporation,HAS_PRODUCT,Surface,Microsoft
+Microsoft Corporation,HAS_PRODUCT,Windows,Microsoft
+Microsoft Corporation,HAS_PRODUCT,Xbox,Microsoft
+Microsoft Corporation,HEADQUARTERED_IN,"Redmond, Washington",Microsoft
+Microsoft Corporation,PROVIDES_SERVICE,Bing,Microsoft
+Microsoft Corporation,PROVIDES_SERVICE,MSN,Microsoft
+Microsoft Corporation,PROVIDES_SERVICE,Microsoft Store,Microsoft
+Microsoft Corporation,PROVIDES_SERVICE,Outlook.com,Microsoft
+Microsoft Corporation,PROVIDES_SOFTWARE,Azure,Microsoft
+Microsoft Corporation,PROVIDES_SOFTWARE,Microsoft SQL Server,Microsoft
+Microsoft Corporation,PROVIDES_SOFTWARE,Visual Studio,Microsoft
+Microsoft Corporation,RELEASED,13 versions of Windows,Microsoft
+Microsoft Corporation,RELEASED,9 versions of MS-DOS,Microsoft
+Midjourney,ACCESSIBLE_VIA,Discord,Midjourney
+Midjourney,ACCESSIBLE_VIA,Website,Midjourney
+Midjourney,CREATED_BY,"Midjourney, Inc.",Midjourney
+Midjourney,GENERATES_IMAGES_FROM,Natural Language Descriptions,Midjourney
+Midjourney,LAUNCHED_ON,"July 12, 2022",Midjourney
+Midjourney,PROFITABLE,True,Midjourney
+Midjourney,RELEASED_VERSION,V5.2,Midjourney
+Midjourney,RELEASED_VERSION,V6,Midjourney
+Midjourney V5.2,INTRODUCED_FEATURE,Vary (Region),Midjourney
+Midjourney V6,LAUNCHED_WITH,Midjourney V6.1,Midjourney
+"Midjourney, Inc.",FOUNDED_BY,David Holz,Midjourney
+Mistral AI SAS,FOUNDED_BY,Arthur Mensch,Mistral AI
+Mistral AI SAS,FOUNDED_BY,Guillaume Lample,Mistral AI
+Mistral AI SAS,FOUNDED_BY,Timothée Lacroix,Mistral AI
+Mistral AI SAS,FOUNDED_IN,2023,Mistral AI
+Mistral AI SAS,HEADQUARTERED_IN,Paris,Mistral AI
+Mistral AI SAS,OWNED_BY,ASML,Mistral AI
+Mistral AI SAS,PARTNERED_WITH,CMA CGM,Mistral AI
+Mistral AI SAS,RAISED_FUNDS_FROM,Andreessen Horowitz,Mistral AI
+Mistral AI SAS,RAISED_FUNDS_FROM,BNP Paribas,Mistral AI
+Mistral AI SAS,RAISED_FUNDS_FROM,Eric Schmidt,Mistral AI
+Mistral AI SAS,RAISED_FUNDS_FROM,JCDecaux,Mistral AI
+Mistral AI SAS,RAISED_FUNDS_FROM,Lightspeed Venture Partners,Mistral AI
+Mistral AI SAS,RAISED_FUNDS_FROM,Microsoft,Mistral AI
+Mistral AI SAS,RAISED_FUNDS_FROM,Salesforce,Mistral AI
+Mistral AI SAS,RAISED_FUNDS_FROM,Xavier Niel,Mistral AI
+Mistral AI SAS,RELEASED,Le Chat,Mistral AI
+Mistral AI SAS,VALUED_AT,US$14 billion,Mistral AI
+Mustafa Suleyman,DEPARTED_FROM,"Inflection AI, Inc.",Inflection AI
+Naspers,PURCHASED_SHARE_OF,Tencent,Tencent
+Noam Shazeer,WORKED_ON,Google LaMDA,Character.ai
+Nvidia Corporation,CONTROLLED_MARKET_SHARE,80%,Nvidia
+Nvidia Corporation,DEVELOPS,APIs,Nvidia
+Nvidia Corporation,DEVELOPS,GPUs,Nvidia
+Nvidia Corporation,DEVELOPS,SoCs,Nvidia
+Nvidia Corporation,FOUNDED_BY,Chris Malachowsky,Nvidia
+Nvidia Corporation,FOUNDED_BY,Curtis Priem,Nvidia
+Nvidia Corporation,FOUNDED_BY,Jensen Huang,Nvidia
+Nvidia Corporation,HAS_PRODUCT_LINE,GeForce,Nvidia
+Nvidia Corporation,HAS_PRODUCT_LINE,Tegra,Nvidia
+Nvidia Corporation,HEADQUARTERED_IN,Santa Clara,Nvidia
+Nvidia Corporation,HOLD_MARKET_SHARE,92%,Nvidia
+Nvidia Corporation,INVESTED_IN,CUDA,Nvidia
+Nvidia Corporation,OPERATES,GeForce Now,Nvidia
+Nvidia Corporation,PROVIDED_CHIPS_FOR,75% of TOP500,Nvidia
+Nvidia Corporation,REACHED_VALUATION,US$1 trillion,Nvidia
+Nvidia Corporation,SELECTED_AS,Magnificent Seven,Nvidia
+Nvidia Corporation,SURPASSED_MARKET_CAP,US$4 trillion,Nvidia
+Nvidia Corporation,SURPASSED_MARKET_CAP,US$5 trillion,Nvidia
+OICQ,RENAMED_TO,QQ,Tencent
+"OpenAI Global, LLC",COLLABORATES_WITH,other institutions,OpenAI
+"OpenAI Global, LLC",CONDUCTED,$6.6 billion share sale,OpenAI
+"OpenAI Global, LLC",CREATED,for-profit public benefit corporation,OpenAI
+"OpenAI Global, LLC",DEFINED_MISSION_AS,benefits all of humanity,OpenAI
+"OpenAI Global, LLC",DEVELOPED,DALL-E,OpenAI
+"OpenAI Global, LLC",DEVELOPED,GPT,OpenAI
+"OpenAI Global, LLC",DEVELOPED,Sora,OpenAI
+"OpenAI Global, LLC",FACED_LAWSUITS_FOR,copyright infringement,OpenAI
+"OpenAI Global, LLC",FOUNDED_IN,2015,OpenAI
+"OpenAI Global, LLC",HEADQUARTERED_IN,San Francisco,OpenAI
+"OpenAI Global, LLC",OWNED_BY,nonprofit,OpenAI
+"OpenAI Global, LLC",PROVIDES,Azure,OpenAI
+"OpenAI Global, LLC",REINSTATED,Sam Altman,OpenAI
+"OpenAI Global, LLC",RELEASED,ChatGPT,OpenAI
+"OpenAI Global, LLC",REMOVED,Sam Altman,OpenAI
+"OpenAI Global, LLC",VALUED_AT,$500 billion,OpenAI
+Palantir Gotham,USED_BY,United States Department of Defense,Palantir
+Palantir Gotham,USED_BY,United States Intelligence Community,Palantir
+Palantir Technologies Inc.,CRITICIZED_FOR,AI and facial recognition,Palantir
+Palantir Technologies Inc.,CRITICIZED_FOR,Government surveillance,Palantir
+Palantir Technologies Inc.,FOUNDED_BY,Alex Karp,Palantir
+Palantir Technologies Inc.,FOUNDED_BY,Joe Lonsdale,Palantir
+Palantir Technologies Inc.,FOUNDED_BY,Nathan Gettings,Palantir
+Palantir Technologies Inc.,FOUNDED_BY,Peter Thiel,Palantir
+Palantir Technologies Inc.,FOUNDED_BY,Stephen Cohen,Palantir
+Palantir Technologies Inc.,HAS_CLIENT,Airbus,Palantir
+Palantir Technologies Inc.,HAS_CLIENT,Fiat Chrysler Automobiles,Palantir
+Palantir Technologies Inc.,HAS_CLIENT,Lilium,Palantir
+Palantir Technologies Inc.,HAS_CLIENT,Merck KGaA,Palantir
+Palantir Technologies Inc.,HAS_CLIENT,Morgan Stanley,Palantir
+Palantir Technologies Inc.,HAS_CLIENT,PG&E,Palantir
+Palantir Technologies Inc.,HAS_CLIENT,Wejo,Palantir
+Palantir Technologies Inc.,HAS_CONTRACT_WITH,Trump administration,Palantir
+Palantir Technologies Inc.,HAS_PRODUCT,Palantir AIP,Palantir
+Palantir Technologies Inc.,HAS_PRODUCT,Palantir Apollo,Palantir
+Palantir Technologies Inc.,HAS_PRODUCT,Palantir Foundry,Palantir
+Palantir Technologies Inc.,HAS_PRODUCT,Palantir Gotham,Palantir
+Palantir Technologies Inc.,HEADQUARTERED_IN,"Miami, Florida",Palantir
+Palantir Technologies Inc.,REPORTED,Positive GAAP net income in Q1 2023,Palantir
+Palantir Technologies Inc.,REPORTED,Positive net income in Q4 2022,Palantir
+"Perplexity AI, Inc.",ANNUAL_RECURRING_REVENUE,$200 million,Perplexity AI
+"Perplexity AI, Inc.",ATTRACTED_SCRUTINY_FROM,BBC,Perplexity AI
+"Perplexity AI, Inc.",ATTRACTED_SCRUTINY_FROM,Dow Jones,Perplexity AI
+"Perplexity AI, Inc.",ATTRACTED_SCRUTINY_FROM,The New York Times,Perplexity AI
+"Perplexity AI, Inc.",ENTERED_PARTNERSHIP_WITH,Cristiano Ronaldo,Perplexity AI
+"Perplexity AI, Inc.",FOUNDED_BY,Andy Konwinski,Perplexity AI
+"Perplexity AI, Inc.",FOUNDED_BY,Aravind Srinivas,Perplexity AI
+"Perplexity AI, Inc.",FOUNDED_BY,Denis Yarats,Perplexity AI
+"Perplexity AI, Inc.",FOUNDED_BY,Johnny Ho,Perplexity AI
+"Perplexity AI, Inc.",LAUNCHED,Sonar,Perplexity AI
+"Perplexity AI, Inc.",MADE_BID_TO_BUY,Chrome,Perplexity AI
+"Perplexity AI, Inc.",PROCESSED_QUERIES,780 million,Perplexity AI
+"Perplexity AI, Inc.",RECEIVED_FUNDING_FROM,1789 Capital,Perplexity AI
+"Perplexity AI, Inc.",RECEIVED_FUNDING_FROM,Databricks,Perplexity AI
+"Perplexity AI, Inc.",RECEIVED_FUNDING_FROM,Donald Trump Jr.,Perplexity AI
+"Perplexity AI, Inc.",RECEIVED_FUNDING_FROM,Jeff Bezos,Perplexity AI
+"Perplexity AI, Inc.",RECEIVED_FUNDING_FROM,Nat Friedman,Perplexity AI
+"Perplexity AI, Inc.",RECEIVED_FUNDING_FROM,Nvidia,Perplexity AI
+"Perplexity AI, Inc.",RECEIVED_FUNDING_FROM,Tobias Lütke,Perplexity AI
+"Perplexity AI, Inc.",SUBMITTED_PROPOSAL_FOR_MERGER_WITH,TikTok US,Perplexity AI
+"Perplexity AI, Inc.",VALUED_AT,$21.21 billion,Perplexity AI
+"Perplexity AI, Inc.",VALUED_AT,US$20 billion,Perplexity AI
+Pi,COMPARED_TO,ChatGPT,Inflection AI
+Pi,INTENDED_FUNCTION,personal assistant,Inflection AI
+Pollen Robotics,FOUNDED_BY,Matthieu Lapeyre,Hugging Face
+Pollen Robotics,FOUNDED_BY,Pierre Rouanet,Hugging Face
+RankDex,PRECEDED,PageRank,Baidu
+Robert Noyce,LEFT,Fairchild Semiconductor,Intel
+Robin Li,DEVELOPED,RankDex,Baidu
+Robin Li,WORKED_AT,IDD Information Services,Baidu
+Santa Clara,LOCATED_IN,California,Nvidia
+Sara Hooker,LED,Cohere Labs,Cohere
+Sonar,BASED_ON,Meta's Llama,Perplexity AI
+Spring Creek Capital,PURCHASED,US $100 million,C3 AI
+Stability AI Ltd,APPOINTED,Prem Akkaraju,Stability AI
+Stability AI Ltd,FACED_LAWSUIT_FROM,Getty Images,Stability AI
+Stability AI Ltd,FOUNDED_BY,Cyrus Hodes,Stability AI
+Stability AI Ltd,FOUNDED_BY,Emad Mostaque,Stability AI
+Stability AI Ltd,HAS_INTERIM_CEO,Christian Laforte,Stability AI
+Stability AI Ltd,HAS_INTERIM_CEO,Shan Shan Wong,Stability AI
+Stability AI Ltd,HAS_PRODUCT,Stable Audio Open,Stability AI
+Stability AI Ltd,HAS_PRODUCT,Stable Diffusion,Stability AI
+Stability AI Ltd,JOINED_BOARD,James Cameron,Stability AI
+Stability AI Ltd,JOINED_BOARD,Sean Parker,Stability AI
+Stability AI Ltd,PARTNERED_WITH,Arm,Stability AI
+Stability AI Ltd,RECEIVED_FUNDING,$101 million,Stability AI
+Stephen Ehikian,FORMER_POSITION,acting administrator of the General Services Administration,C3 AI
+Steve Jobs,SUCCEEDED_BY,Tim Cook,Apple Inc.
+Sundar Pichai,REPLACED,Larry Page,Google
+System/360,DESIGNED_FOR,complete range of applications,IBM
+Taobao,SUBSIDIARY_OF,Alibaba Group Holding Limited,Alibaba Group
+Tencent,FOUNDED_BY,Charles Chen,Tencent
+Tencent,FOUNDED_BY,Pony Ma,Tencent
+Tencent,FOUNDED_BY,Xu Chenye,Tencent
+Tencent,FOUNDED_BY,Zeng Liqing,Tencent
+Tencent,FOUNDED_BY,Zhang Zhidong,Tencent
+Tencent,HAS_PRODUCT,OICQ,Tencent
+Tencent,HEADQUARTERED_IN,Shenzhen,Tencent
+Tencent,OWNED_BY,Prosus,Tencent
+Tencent,RANKED_BY,Boston Consulting Group,Tencent
+Tencent,RANKED_BY,Fast Company,Tencent
+Tencent,RANKED_ON,Forbes Global 2000 list,Tencent
+Tencent Holdings Ltd,INCORPORATED_IN,Cayman Islands,Tencent
+"Tesla, Inc.",EXCEEDED_MARKET_CAP,$1 trillion,"Tesla, Inc."
+"Tesla, Inc.",FIRST_CAR_MODEL,Cybertruck,"Tesla, Inc."
+"Tesla, Inc.",FIRST_CAR_MODEL,Model 3,"Tesla, Inc."
+"Tesla, Inc.",FIRST_CAR_MODEL,Model S,"Tesla, Inc."
+"Tesla, Inc.",FIRST_CAR_MODEL,Model X,"Tesla, Inc."
+"Tesla, Inc.",FIRST_CAR_MODEL,Model Y,"Tesla, Inc."
+"Tesla, Inc.",FIRST_CAR_MODEL,Roadster,"Tesla, Inc."
+"Tesla, Inc.",FIRST_CAR_MODEL,Tesla Semi,"Tesla, Inc."
+"Tesla, Inc.",FOUNDED_BY,Marc Tarpenning,"Tesla, Inc."
+"Tesla, Inc.",FOUNDED_BY,Martin Eberhard,"Tesla, Inc."
+"Tesla, Inc.",HEADQUARTERED_IN,"Austin, Texas","Tesla, Inc."
+"Tesla, Inc.",INCORPORATED_AS,Tesla Motors,"Tesla, Inc."
+"Tesla, Inc.",LEADS,Battery Electric Vehicle Market,"Tesla, Inc."
+"Tesla, Inc.",NAMED_AFTER,Nikola Tesla,"Tesla, Inc."
+"Tesla, Inc.",RANKED_IN,Forbes Global 2000,"Tesla, Inc."
+"Tesla, Inc.",SUBJECT_TO,Boycotts,"Tesla, Inc."
+"Tesla, Inc.",SUBJECT_TO,Government Scrutiny,"Tesla, Inc."
+"Tesla, Inc.",SUBJECT_TO,Journalistic Criticism,"Tesla, Inc."
+"Tesla, Inc.",SUBJECT_TO,Lawsuits,"Tesla, Inc."
+Tim Cook,SUCCEEDED_BY,John Ternus,Apple Inc.
+Timothée Lacroix,FORMER_EMPLOYEE_OF,Meta Platforms,Mistral AI
+UK's Competition and Markets Authority,LAUNCHED_PROBE_INTO,Microsoft AI deal,Inflection AI
+Willard Bundy,INVENTED,time clock,IBM
+Xai-Xai,IS_A,City,Xai
+Xinyang Minggang Airport,IS_A,Airport,Xai
+Zuckerberg,RETAINS_SHARES,22%,Meta Platforms
+xAI,IS_A,Company,Xai

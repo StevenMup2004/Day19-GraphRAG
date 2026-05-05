@@ -1,0 +1,23 @@
+nodes=553
+edges=562
+top_degree_nodes:
+- Google LLC: 41
+- DeepMind Technologies Limited: 34
+- Microsoft Corporation: 28
+- Databricks, Inc.: 25
+- Amazon.com, Inc.: 24
+- Advanced Micro Devices, Inc.: 23
+- Palantir Technologies Inc.: 22
+- Perplexity AI, Inc.: 22
+- Tesla, Inc.: 20
+- Cohere Inc.: 19
+- C3.ai: 18
+- Nvidia Corporation: 18
+- Anthropic: 17
+- OpenAI Global, LLC: 17
+- Mistral AI SAS: 17
+- Alibaba Group Holding Limited: 15
+- Apple Inc.: 14
+- Baidu, Inc.: 14
+- Character.ai: 13
+- Intel Corporation: 13

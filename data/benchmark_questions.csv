@@ -1,0 +1,21 @@
+question_id,question,expected_keywords
+Q01,What is OpenAI?,openai
+Q02,Who founded OpenAI?,sam altman;elon musk
+Q03,In what year was OpenAI founded?,2015
+Q04,Which company created the Gemini model?,google;deepmind
+Q05,What is DeepMind and who owns it?,deepmind;google
+Q06,Name AI companies founded by former Google employees.,openai;anthropic;inflection
+Q07,Which company is known for Stable Diffusion?,stability ai
+Q08,What does Anthropic build?,claude;anthropic
+Q09,Which company develops ChatGPT?,openai
+Q10,What company is behind GitHub Copilot?,github;microsoft
+Q11,What is Cohere known for?,cohere;language model
+Q12,Which company builds Perplexity AI search?,perplexity
+Q13,Who are the co-founders of Google?,larry page;sergey brin
+Q14,Is Waymo related to Google?,waymo;google
+Q15,What company develops autonomous vehicles and is linked to GM?,cruise;general motors
+Q16,Which company produces AI GPUs used widely in LLM training?,nvidia
+Q17,What is Hugging Face known for?,hugging face;model hub
+Q18,What company created Llama models?,meta
+Q19,What is xAI and who founded it?,xai;elon musk
+Q20,Which companies are major cloud providers supporting AI workloads?,amazon;microsoft;google

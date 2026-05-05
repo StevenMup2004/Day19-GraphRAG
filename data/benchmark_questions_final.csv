@@ -1,0 +1,21 @@
+question_id,category,question,expected_keywords
+FQ01,hard_multihop,Which company partnered with both OpenAI and Anthropic?,databricks;openai;anthropic
+FQ02,hard_multihop,Which company founded in 2013 partnered with Anthropic?,databricks;2013;anthropic
+FQ03,hard_multihop,Which company is based in San Francisco and partnered with Anthropic?,databricks;san francisco;anthropic
+FQ04,hard_multihop,Which company announced the Data Intelligence Platform and partnered with OpenAI?,databricks;data intelligence platform;openai
+FQ05,hard_multihop,Which company partnered with Alphabet and OpenAI?,databricks;alphabet;openai
+FQ06,hard_multihop,Which company integrated with Google Cloud and partnered with Anthropic?,databricks;google cloud;anthropic
+FQ07,hard_multihop,Which company expected investment from both Microsoft and Nvidia?,anthropic;microsoft;nvidia
+FQ08,hard_multihop,Which company made a bid to buy Chrome and entered partnership with Cristiano Ronaldo?,perplexity;chrome;cristiano ronaldo
+FQ09,multihop_control,Which company launched Sonar and received funding from Nvidia?,perplexity;sonar;nvidia
+FQ10,multihop_control,Which company has product Stable Diffusion and partnered with Arm?,stability;stable diffusion;arm
+FQ11,multihop_control,Which company has product line GeForce and was founded by Jensen Huang?,nvidia;geforce;jensen huang
+FQ12,multihop_control,Which company was acquired by Google and founded by Demis Hassabis?,deepmind;google;demis hassabis
+FQ13,multihop_control,Which company developed Claude and is headquartered in San Francisco?,anthropic;claude;san francisco
+FQ14,multihop_control,Which company has interim CEOs Christian Laforte and Shan Shan Wong?,stability;christian laforte;shan shan wong
+FQ15,multihop_control,Which company launched a web search API and signed partnership with Snowflake Inc.?,anthropic;web search api;snowflake
+FQ16,multihop_control,Which company both founded by Emad Mostaque and partnered with Arm?,stability;emad mostaque;arm
+FQ17,multihop_control,Which company introduced Dolly and partnered with OpenAI?,databricks;dolly;openai
+FQ18,multihop_control,Which company was founded by Matei Zaharia and partnered with OpenAI?,databricks;matei zaharia;openai
+FQ19,robustness_failcase,Who founded OpenAI?,sam altman;elon musk
+FQ20,robustness_failcase,In what year was OpenAI founded?,2015

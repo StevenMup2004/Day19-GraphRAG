@@ -1,0 +1,21 @@
+question_id,category,question,expected_keywords
+SQ01,hard_multihop,Which company partnered with both OpenAI and Anthropic?,databricks;openai;anthropic
+SQ02,hard_multihop,Which company founded in 2013 partnered with Anthropic?,databricks;2013;anthropic
+SQ03,hard_multihop,Which company is based in San Francisco and partnered with Anthropic?,databricks;san francisco;anthropic
+SQ04,hard_multihop,Which company announced the Data Intelligence Platform and partnered with OpenAI?,databricks;data intelligence platform;openai
+SQ05,hard_multihop,Which company partnered with Alphabet and OpenAI?,databricks;alphabet;openai
+SQ06,hard_multihop,Which company integrated with Google Cloud and partnered with Anthropic?,databricks;google cloud;anthropic
+SQ07,hard_multihop,Which company expected investment from both Microsoft and Nvidia?,anthropic;microsoft;nvidia
+SQ08,hard_multihop,Which company made a bid to buy Chrome and entered partnership with Cristiano Ronaldo?,perplexity;chrome;cristiano ronaldo
+SQ09,multihop_control,Which company launched Sonar and received funding from Nvidia?,perplexity;sonar;nvidia
+SQ10,multihop_control,Which company has product Stable Diffusion and partnered with Arm?,stability;stable diffusion;arm
+SQ11,multihop_control,Which company has product line GeForce and was founded by Jensen Huang?,nvidia;geforce;jensen huang
+SQ12,multihop_control,Which company was acquired by Google and founded by Demis Hassabis?,deepmind;google;demis hassabis
+SQ13,multihop_control,Which company developed Claude and is headquartered in San Francisco?,anthropic;claude;san francisco
+SQ14,multihop_control,Which company has interim CEOs Christian Laforte and Shan Shan Wong?,stability;christian laforte;shan shan wong
+SQ15,multihop_control,Which company launched a web search API and signed partnership with Snowflake Inc.?,anthropic;web search api;snowflake
+SQ16,multihop_control,Which company both founded by Emad Mostaque and partnered with Arm?,stability;emad mostaque;arm
+SQ17,multihop_control,Which company introduced Dolly and partnered with OpenAI?,databricks;dolly;openai
+SQ18,multihop_control,Which company was founded by Matei Zaharia and partnered with OpenAI?,databricks;matei zaharia;openai
+SQ19,multihop_control,Which company acquired MosaicML and partnered with Anthropic?,databricks;mosaicml;anthropic
+SQ20,multihop_control,Which company provided integration with Google BigQuery and partnered with Anthropic?,databricks;google bigquery;anthropic

@@ -96,15 +96,17 @@ def chunk_text(text: str, max_chars: int = 3200) -> List[str]:
     current: List[str] = []
     cur_len = 0
     for p in paragraphs:
-        if len(p) > max_chars:
-            p = p[:max_chars]
-        if cur_len + len(p) + 1 > max_chars and current:
-            chunks.append("\n".join(current))
-            current = [p]
-            cur_len = len(p)
-        else:
-            current.append(p)
-            cur_len += len(p) + 1
+        # If one paragraph is very long, split it instead of truncating.
+        # Truncation loses facts and underestimates indexing cost.
+        parts = [p[i : i + max_chars] for i in range(0, len(p), max_chars)] or [p]
+        for part in parts:
+            if cur_len + len(part) + 1 > max_chars and current:
+                chunks.append("\n".join(current))
+                current = [part]
+                cur_len = len(part)
+            else:
+                current.append(part)
+                cur_len += len(part) + 1
     if current:
         chunks.append("\n".join(current))
     return chunks

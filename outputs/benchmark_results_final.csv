@@ -1,0 +1,45 @@
+question_id,question,system,category,answer,correct,latency_ms,token_in,token_out,estimated_cost
+FQ01,Which company partnered with both OpenAI and Anthropic?,flat,hard_multihop,The company that partnered with both OpenAI and Anthropic is **Microsoft**.,0,1744,2156,16,0.000333
+FQ01,Which company partnered with both OpenAI and Anthropic?,graph,hard_multihop,"The company that partnered with both OpenAI and Anthropic is Databricks, Inc. (source: Databricks).",1,1301,1215,25,0.000197
+FQ02,Which company founded in 2013 partnered with Anthropic?,flat,hard_multihop,"The company founded in 2013 that partnered with Anthropic is not mentioned in the provided context. Therefore, I cannot provide an answer based on the available information.",0,1903,2157,33,0.000343
+FQ02,Which company founded in 2013 partnered with Anthropic?,graph,hard_multihop,"The company founded in 2013 that partnered with Anthropic is Databricks, Inc. (source: Databricks).",1,812,1216,26,0.000198
+FQ03,Which company is based in San Francisco and partnered with Anthropic?,flat,hard_multihop,The company based in San Francisco that partnered with Anthropic is **Google**.,0,2020,2251,16,0.000347
+FQ03,Which company is based in San Francisco and partnered with Anthropic?,graph,hard_multihop,"The company based in San Francisco that partnered with Anthropic is Databricks, Inc. (source: Databricks).",1,936,1939,25,0.000306
+FQ04,Which company announced the Data Intelligence Platform and partnered with OpenAI?,flat,hard_multihop,The company that announced the Data Intelligence Platform and partnered with OpenAI is Palantir Technologies Inc.,0,1186,2147,20,0.000334
+FQ04,Which company announced the Data Intelligence Platform and partnered with OpenAI?,graph,hard_multihop,"The company that announced the Data Intelligence Platform and partnered with OpenAI is Databricks, Inc.",1,1545,1120,20,0.00018
+FQ05,Which company partnered with Alphabet and OpenAI?,flat,hard_multihop,The company that partnered with Alphabet and OpenAI is **Anthropic**.,0,771,2147,15,0.000331
+FQ05,Which company partnered with Alphabet and OpenAI?,graph,hard_multihop,"The company that partnered with Alphabet and OpenAI is Databricks, Inc.",1,1205,646,16,0.000107
+FQ06,Which company integrated with Google Cloud and partnered with Anthropic?,flat,hard_multihop,The company that integrated with Google Cloud and partnered with Anthropic is **Anthropic**.,0,1386,2178,18,0.000337
+FQ06,Which company integrated with Google Cloud and partnered with Anthropic?,graph,hard_multihop,"The company that integrated with Google Cloud and partnered with Anthropic is **Databricks, Inc.** (source: Databricks).",1,1115,2293,28,0.000361
+FQ07,Which company expected investment from both Microsoft and Nvidia?,flat,hard_multihop,The company that expected investment from both Microsoft and Nvidia is **OpenAI**.,0,1038,2168,16,0.000335
+FQ07,Which company expected investment from both Microsoft and Nvidia?,graph,hard_multihop,The company that expected investment from both Microsoft and Nvidia is **Anthropic**.,1,1111,2038,16,0.000315
+FQ08,Which company made a bid to buy Chrome and entered partnership with Cristiano Ronaldo?,flat,hard_multihop,"The context provided does not mention any company that made a bid to buy Chrome or entered a partnership with Cristiano Ronaldo. Therefore, I cannot provide an answer based on the available information.",0,2354,2189,36,0.00035
+FQ08,Which company made a bid to buy Chrome and entered partnership with Cristiano Ronaldo?,graph,hard_multihop,"Perplexity AI, Inc. made a bid to buy Chrome and entered a partnership with Cristiano Ronaldo.",1,843,1283,21,0.000205
+FQ09,Which company launched Sonar and received funding from Nvidia?,flat,multihop_control,"The company that launched Sonar and received funding from Nvidia is Perplexity AI, Inc.",1,1125,2219,19,0.000344
+FQ09,Which company launched Sonar and received funding from Nvidia?,graph,multihop_control,"The company that launched Sonar and received funding from Nvidia is **Perplexity AI, Inc.**",1,1194,1279,21,0.000204
+FQ10,Which company has product Stable Diffusion and partnered with Arm?,flat,multihop_control,The company that has the product Stable Diffusion and partnered with Arm is **Stability AI**.,1,1012,2174,20,0.000338
+FQ10,Which company has product Stable Diffusion and partnered with Arm?,graph,multihop_control,The company that has the product Stable Diffusion and partnered with Arm is Stability AI Ltd.,1,824,327,18,6e-05
+FQ11,Which company has product line GeForce and was founded by Jensen Huang?,flat,multihop_control,"The company with the product line GeForce, founded by Jensen Huang, is Nvidia.",1,899,2142,17,0.000331
+FQ11,Which company has product line GeForce and was founded by Jensen Huang?,graph,multihop_control,The company with the product line GeForce that was founded by Jensen Huang is Nvidia Corporation.,1,946,392,18,7e-05
+FQ12,Which company was acquired by Google and founded by Demis Hassabis?,flat,multihop_control,"The company acquired by Google and founded by Demis Hassabis is DeepMind Technologies Limited, which was acquired in 2014.",1,1625,2190,26,0.000344
+FQ12,Which company was acquired by Google and founded by Demis Hassabis?,graph,multihop_control,"The company acquired by Google and founded by Demis Hassabis is DeepMind Technologies Limited. 
+
+Key entities: 
+- DeepMind Technologies Limited -[FOUNDED_BY]-> Demis Hassabis
+- DeepMind Technologies Limited -[ACQUIRED_BY]-> Google",1,1128,1751,52,0.000294
+FQ13,Which company developed Claude and is headquartered in San Francisco?,flat,multihop_control,The company that developed Claude and is headquartered in San Francisco is **Anthropic**.,1,1150,2259,17,0.000349
+FQ13,Which company developed Claude and is headquartered in San Francisco?,graph,multihop_control,The company that developed Claude and is headquartered in San Francisco is **Anthropic** (source: Anthropic).,1,1029,1660,22,0.000262
+FQ14,Which company has interim CEOs Christian Laforte and Shan Shan Wong?,flat,multihop_control,The company with interim CEOs Christian Laforte and Shan Shan Wong is Stability AI.,1,974,2233,16,0.000345
+FQ14,Which company has interim CEOs Christian Laforte and Shan Shan Wong?,graph,multihop_control,The company with interim CEOs Christian Laforte and Shan Shan Wong is Stability AI Ltd.,1,2880,328,17,5.9e-05
+FQ15,Which company launched a web search API and signed partnership with Snowflake Inc.?,flat,multihop_control,The company that launched a web search API and signed a partnership with Snowflake Inc. is **Anthropic**.,1,1169,2149,23,0.000336
+FQ15,Which company launched a web search API and signed partnership with Snowflake Inc.?,graph,multihop_control,The company that launched a web search API and signed a partnership with Snowflake Inc. is **Anthropic**.,1,1103,409,23,7.5e-05
+FQ16,Which company both founded by Emad Mostaque and partnered with Arm?,flat,multihop_control,The company founded by Emad Mostaque and partnered with Arm is **Stability AI**.,1,1037,2131,19,0.000331
+FQ16,Which company both founded by Emad Mostaque and partnered with Arm?,graph,multihop_control,The company both founded by Emad Mostaque and partnered with Arm is **Stability AI Ltd**.,1,1211,329,21,6.2e-05
+FQ17,Which company introduced Dolly and partnered with OpenAI?,flat,multihop_control,The company that introduced Dolly and partnered with OpenAI is Databricks.,1,939,2222,15,0.000342
+FQ17,Which company introduced Dolly and partnered with OpenAI?,graph,multihop_control,"The company that introduced Dolly and partnered with OpenAI is Databricks, Inc. (source: Databricks).",1,1102,664,24,0.000114
+FQ18,Which company was founded by Matei Zaharia and partnered with OpenAI?,flat,multihop_control,The company founded by Matei Zaharia and partnered with OpenAI is **Databricks**.,1,918,2227,20,0.000346
+FQ18,Which company was founded by Matei Zaharia and partnered with OpenAI?,graph,multihop_control,"The company founded by Matei Zaharia and partnered with OpenAI is Databricks, Inc. (source: Databricks).",1,1117,652,27,0.000114
+FQ19,Who founded OpenAI?,flat,robustness_failcase,"OpenAI was founded in December 2015 by Elon Musk, Sam Altman, Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Elon Musk and Sam Altman serving as co-chairs.",1,1887,2243,76,0.000382
+FQ19,Who founded OpenAI?,graph,robustness_failcase,The context does not provide information about who founded OpenAI.,0,791,642,12,0.000103
+FQ20,In what year was OpenAI founded?,flat,robustness_failcase,OpenAI was founded in 2015.,1,976,2142,9,0.000327
+FQ20,In what year was OpenAI founded?,graph,robustness_failcase,"The context does not provide information about the year OpenAI was founded. Therefore, I cannot answer the question.",0,893,645,22,0.00011

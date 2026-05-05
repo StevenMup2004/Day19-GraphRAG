@@ -16,6 +16,46 @@ OUTPUT_DIR = ROOT / "outputs"
 CORPUS_PATH = DATA_DIR / "corpus_articles.jsonl"
 TRIPLES_PATH = OUTPUT_DIR / "triples.csv"
 GRAPH_PATH = OUTPUT_DIR / "graph.pkl"
+STOPWORDS = {
+    "which",
+    "what",
+    "who",
+    "where",
+    "when",
+    "why",
+    "how",
+    "company",
+    "companies",
+    "that",
+    "this",
+    "with",
+    "from",
+    "into",
+    "also",
+    "both",
+    "and",
+    "the",
+    "is",
+    "are",
+    "was",
+    "were",
+    "has",
+    "have",
+    "had",
+    "for",
+    "its",
+    "their",
+    "about",
+    "used",
+    "widely",
+    "over",
+    "under",
+    "than",
+    "percent",
+    "market",
+    "share",
+    "segment",
+}
 
 
 def tokenize(text: str) -> List[str]:
@@ -159,7 +199,30 @@ def find_seed_nodes(question: str, graph: nx.MultiDiGraph, limit: int = 8) -> Li
             scored.append((hit, -len(n), n))
 
     scored.sort(reverse=True)
-    return [n for _, _, n in scored[:limit]]
+    seeds = [n for _, _, n in scored[:limit]]
+    if seeds:
+        return seeds
+
+    # edge-based fallback for questions without explicit entity mention
+    q_set = {t for t in tokenize(question) if len(t) >= 3 and t not in STOPWORDS}
+    edge_scores: List[Tuple[int, str, str]] = []
+    for u, v, data in graph.edges(data=True):
+        rel = str(data.get("relation", ""))
+        text = f"{u} {rel.replace('_', ' ')} {v}"
+        tks = set(tokenize(text))
+        s = len(q_set.intersection(tks))
+        if s > 0:
+            edge_scores.append((s, str(u), str(v)))
+    edge_scores.sort(reverse=True)
+    picked: List[str] = []
+    for _, u, v in edge_scores:
+        if u not in picked:
+            picked.append(u)
+        if v not in picked:
+            picked.append(v)
+        if len(picked) >= limit:
+            break
+    return picked[:limit]
 
 
 def build_graphrag_context(
@@ -178,20 +241,23 @@ def build_graphrag_context(
     undirected = graph.to_undirected()
     keep_nodes = set(seeds)
     for seed in seeds:
-        lengths = nx.single_source_shortest_path_length(undirected, seed, cutoff=max_hops)
-        keep_nodes.update(lengths.keys())
+        if seed in undirected:
+            lengths = nx.single_source_shortest_path_length(undirected, seed, cutoff=max_hops)
+            keep_nodes.update(lengths.keys())
 
-    lines: List[str] = []
-    edge_count = 0
+    q_set = {t for t in tokenize(question) if len(t) >= 3 and t not in STOPWORDS}
+    edge_scored: List[Tuple[int, str]] = []
     for u, v, data in graph.edges(data=True):
         if u in keep_nodes and v in keep_nodes:
             rel = str(data.get("relation", "RELATED_TO"))
             doc = str(data.get("source_doc", ""))
-            lines.append(f"{u} -[{rel}]-> {v} (source: {doc})")
-            edge_count += 1
-            if edge_count >= max_edges:
-                break
+            line = f"{u} -[{rel}]-> {v} (source: {doc})"
+            tks = set(tokenize(f"{u} {rel.replace('_', ' ')} {v}"))
+            score = len(q_set.intersection(tks))
+            edge_scored.append((score, line))
 
+    edge_scored.sort(key=lambda x: x[0], reverse=True)
+    lines = [line for _, line in edge_scored[:max_edges]]
     context = "\n".join(lines)
     if not context:
         context = "No graph edges found for this query."

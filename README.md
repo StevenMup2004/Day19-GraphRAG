@@ -95,25 +95,32 @@ Flat RAG baseline:
 - `outputs/triples.csv`: triples được trích xuất bởi LLM
 - `outputs/graph.pkl`: graph `NetworkX MultiDiGraph` đã serialize
 - `outputs/benchmark_results_final.csv`: chi tiết benchmark theo từng dòng
-- `outputs/report_final.md`: báo cáo tổng hợp (accuracy, latency, cost, failure modes)
+- `outputs/report_final.md`: báo cáo tổng hợp tiếng Việt (accuracy, latency, cost, failure modes)
 - `outputs/cost_audit.md`: chi phí query so với chi phí đầy đủ (query + indexing)
 - `outputs/graph_screenshot_final.png`: ảnh visualization
 
-## 6) Ghi Chú Đánh Giá
+## 6) submission
+
+Đã có sẵn thư mục gom report + ảnh để nộp nhanh:
+
+- `submission/report_VuHaiDang.md`
+- `submission/graph_screenshot_VuHaiDang.png`
+
+## 7) Ghi Chú Đánh Giá
 
 - Accuracy trong report được tính trên 20 câu hỏi.
 - Query-time cost có thể thấp hơn cho GraphRAG do context gọn hơn.
 - Total cost (query + indexing) thường cao hơn cho GraphRAG vì có chi phí extraction + graph indexing.
 - Cách chấm hiện tại là keyword-based deterministic scoring, chưa phải semantic grader.
 
-## 7) Failure Modes Thường Gặp
+## 8) Failure Modes Thường Gặp
 
 - Lệch alias entity (ví dụ `OpenAI` và `OpenAI Global, LLC`)
 - Thiếu relation quan trọng (ví dụ thiếu `FOUNDED_BY`)
 - Traversal giới hạn số hop nên có thể bỏ sót evidence node
 - Prompt policy quá chặt có thể tạo câu trả lời từ chối khi context retrieval thiếu
 
-## 8) Troubleshooting Nhanh
+## 9) Troubleshooting Nhanh
 
 - Lỗi `Missing OPENAI_API_KEY`: kiểm tra `day19/.env`.
 - Lỗi `Missing graph file`: chạy lại `02_build_graph.py`.
